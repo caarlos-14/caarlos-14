@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧠 Formación Técnica
+## Formación Técnica
 
-### 🖥️ Sistemas Microinformáticos y Redes (SMR)
+### Sistemas Microinformáticos y Redes (SMR)
 - Instalación y configuración de sistemas operativos (Windows / Linux)
 - Administración básica de redes locales
 - Configuración de routers y switches
@@ -40,20 +40,21 @@ Here are some ideas to get you started:
 
 ---
 
-### 🌐 Desarrollo de Aplicaciones Web (DAW)
+### Desarrollo de Aplicaciones Web (DAW)
 
-#### 📌 Frontend
+#### Frontend
 - HTML5
 - CSS3
 - SCSS
 - Bootstrap
 - JavaScript (ES6+)
 - Angular
+- React
+- Next.js
 
 #### 📌 Backend
 - Java
 - Programación orientada a objetos
-- JDBC
 - Servlets (conceptos)
 - APIs REST
 
@@ -63,33 +64,12 @@ Here are some ideas to get you started:
 - Normalización
 - Consultas SQL (SELECT, WHERE, GROUP BY, JOIN)
 
-#### 📌 Entornos y Herramientas
+#### Entornos y Herramientas
 - Git & GitHub
 - Visual Studio Code
-- IntelliJ / Eclipse
+- Eclipse
 - XAMPP
 - Node.js (básico)
-
----
-
-## 🚀 Competencias
-
-- Desarrollo de aplicaciones web dinámicas
-- Consumo de APIs REST
-- Diseño responsive
-- Arquitectura cliente-servidor
-- Control de versiones
-- Trabajo con bases de datos relacionales
-
----
-
-## 📂 Proyectos Académicos
-
-- Aplicaciones CRUD con base de datos
-- Webs responsive con Bootstrap
-- Aplicaciones Angular con consumo de API
-- Configuración de redes locales simuladas
-- Instalación y administración de servidores básicos
 
 ---
 
@@ -100,7 +80,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
 <h3 align="center">📚 Formación Técnica | 💡 Aprendizaje Continuo | 🚀 Desarrollo Profesional</h3>
 
 
