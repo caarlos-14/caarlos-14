@@ -28,59 +28,84 @@ Here are some ideas to get you started:
 
 ---
 
-## Formación Técnica
-
-### Sistemas Microinformáticos y Redes (SMR)
-- Instalación y configuración de sistemas operativos (Windows / Linux)
-- Administración básica de redes locales
-- Configuración de routers y switches
-- Servicios de red (DNS, DHCP, FTP, Web)
-- Seguridad informática básica
-- Mantenimiento de equipos y soporte técnico
-
----
-
-### Desarrollo de Aplicaciones Web (DAW)
-
-#### Frontend
-- HTML5
-- CSS3
-- SCSS
-- Bootstrap
-- JavaScript (ES6+)
-- Angular
-- React
-- Next.js
-
-#### 📌 Backend
-- Java
-- Programación orientada a objetos
-- Servlets (conceptos)
-- APIs REST
-
-#### 📌 Bases de Datos
-- MySQL
-- Modelado entidad-relación
-- Normalización
-- Consultas SQL (SELECT, WHERE, GROUP BY, JOIN)
-
-#### Entornos y Herramientas
-- Git & GitHub
-- Visual Studio Code
-- Eclipse
-- XAMPP
-- Node.js (básico)
-
----
-
-## 📊 Tecnologías
+## 🖥️ Sistemas Microinformáticos y Redes (SMR)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,java,mysql,git,linux,windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />
 </p>
 
+- Instalación y configuración de sistemas Windows y Linux  
+- Administración básica de redes  
+- Servicios de red (DNS, DHCP, Web, FTP)  
+- Seguridad informática básica  
+- Mantenimiento y soporte técnico  
+
 ---
-<h3 align="center">📚 Formación Técnica | 💡 Aprendizaje Continuo | 🚀 Desarrollo Profesional</h3>
+
+## 🌐 Frontend Development
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" />
+</p>
+
+- HTML5 & CSS3  
+- Diseño responsive  
+- Bootstrap  
+- JavaScript (ES6+)  
+- Angular  
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+</p>
+
+- Programación orientada a objetos  
+- Desarrollo con Java  
+- Arquitectura cliente-servidor  
+- APIs REST (conceptos)  
+
+---
+
+## 🗄️ Bases de Datos
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+</p>
+
+- Modelado entidad-relación  
+- Normalización  
+- Consultas SQL (SELECT, WHERE, JOIN, GROUP BY)  
+- Desarrollo de aplicaciones CRUD  
+
+---
+
+## 🛠️ Herramientas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" />
+</p>
+
+- Control de versiones con Git  
+- Trabajo colaborativo en GitHub  
+- Entornos de desarrollo modernos  
+
+---
+
+<h3 align="center">🚀 Formación Técnica | 💡 Desarrollo Web | 🔧 Sistemas y Redes</h3>
 
 
 ## My Skills Include
