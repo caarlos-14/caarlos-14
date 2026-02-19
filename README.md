@@ -23,6 +23,86 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<h1 align="center">💻 Web Application Developer</h1>
+<h3 align="center">Sistemas Microinformáticos y Redes | Desarrollo de Aplicaciones Web</h3>
+
+---
+
+## 🧠 Formación Técnica
+
+### 🖥️ Sistemas Microinformáticos y Redes (SMR)
+- Instalación y configuración de sistemas operativos (Windows / Linux)
+- Administración básica de redes locales
+- Configuración de routers y switches
+- Servicios de red (DNS, DHCP, FTP, Web)
+- Seguridad informática básica
+- Mantenimiento de equipos y soporte técnico
+
+---
+
+### 🌐 Desarrollo de Aplicaciones Web (DAW)
+
+#### 📌 Frontend
+- HTML5
+- CSS3
+- SCSS
+- Bootstrap
+- JavaScript (ES6+)
+- Angular
+
+#### 📌 Backend
+- Java
+- Programación orientada a objetos
+- JDBC
+- Servlets (conceptos)
+- APIs REST
+
+#### 📌 Bases de Datos
+- MySQL
+- Modelado entidad-relación
+- Normalización
+- Consultas SQL (SELECT, WHERE, GROUP BY, JOIN)
+
+#### 📌 Entornos y Herramientas
+- Git & GitHub
+- Visual Studio Code
+- IntelliJ / Eclipse
+- XAMPP
+- Node.js (básico)
+
+---
+
+## 🚀 Competencias
+
+- Desarrollo de aplicaciones web dinámicas
+- Consumo de APIs REST
+- Diseño responsive
+- Arquitectura cliente-servidor
+- Control de versiones
+- Trabajo con bases de datos relacionales
+
+---
+
+## 📂 Proyectos Académicos
+
+- Aplicaciones CRUD con base de datos
+- Webs responsive con Bootstrap
+- Aplicaciones Angular con consumo de API
+- Configuración de redes locales simuladas
+- Instalación y administración de servidores básicos
+
+---
+
+## 📊 Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,java,mysql,git,linux,windows" />
+</p>
+
+---
+
+<h3 align="center">📚 Formación Técnica | 💡 Aprendizaje Continuo | 🚀 Desarrollo Profesional</h3>
+
 
 ## My Skills Include
 
